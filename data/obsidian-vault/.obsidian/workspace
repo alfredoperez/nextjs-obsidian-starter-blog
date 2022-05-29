@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "a8d3482163d3b0af",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e0b92ee5b74d2d3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "First Note.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fd97900b7a0ad04",
+    "type": "split",
+    "children": [
+      {
+        "id": "791567b4e63da9f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a6d43b52dfe7b54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "071e4b22931b0692",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3238c0c6ab0993ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ffca103c6781202",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "effbb064fb2c9341",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "First Note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3e0b92ee5b74d2d3",
+  "lastOpenFiles": [
+    "First Note.md",
+    "Markdown Cheatsheet.md",
+    "Second Note.md",
+    "Markdown-cheatsheet.md"
+  ]
+}
